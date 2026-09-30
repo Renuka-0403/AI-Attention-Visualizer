@@ -145,19 +145,6 @@ Where:
 
 The project calculates the attention weights and uses them to obtain a relative score for each word.
 
-## Project Structure
-
-```text
-AI-Attention-Visualizer/
-|
-├── app.py
-├── ocr.py
-├── embedding.py
-├── attention.py
-├── requirements.txt
-└── README.md
-```
-
 ## File Description
 
 ### app.py
